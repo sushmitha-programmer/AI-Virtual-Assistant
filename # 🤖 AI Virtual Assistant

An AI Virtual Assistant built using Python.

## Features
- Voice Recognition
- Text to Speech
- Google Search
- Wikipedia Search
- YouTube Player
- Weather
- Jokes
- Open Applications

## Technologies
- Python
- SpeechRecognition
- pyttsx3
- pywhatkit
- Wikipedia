@@ -1,0 +1,20 @@
+# 🤖 AI Virtual Assistant
+
+An AI Virtual Assistant built using Python.
+
+## Features
+- Voice Recognition
+- Text to Speech
+- Google Search
+- Wikipedia Search
+- YouTube Player
+- Weather
+- Jokes
+- Open Applications
+
+## Technologies
+- Python
+- SpeechRecognition
+- pyttsx3
+- pywhatkit
+- Wikipedia
